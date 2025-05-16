@@ -1,4 +1,4 @@
-# IF-Estagios
+# if-estagios
 Projeto escolar para a aplicação do site IF-Estágios.
 
 <--Intuito-->
